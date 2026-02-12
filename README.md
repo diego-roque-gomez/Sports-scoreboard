@@ -25,10 +25,7 @@ The system implemented an IoT-based architecture in which an ESP32 microcontroll
 ![Final Prototype](Images/Final_prototype.jpeg)
 
 ## Demonstration videos
-[Video_of_the_PCB_working]()
-
-
-
+[Video_of_the_PCB_working](https://github.com/user-attachments/assets/36a9706f-3883-4caf-9d38-b58036e7d53b)
 [Video of the final prototype](https://github.com/user-attachments/assets/bcdd5858-99ae-4861-a208-e2463b085100)
 
 ## System Architecture & Team Responsibilities
