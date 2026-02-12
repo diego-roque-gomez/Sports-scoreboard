@@ -22,9 +22,9 @@ The system implemented an IoT-based architecture in which an ESP32 microcontroll
 
 ## Images
 ### PCB
-![Front_view_of_the_PCB](Images/Front_view_of_the_PCB.jpeg)
-![Rear_view_of_the_PCB](Images/Rear_view_of_the_PCB.jpeg)
-![PCB_Layout](Images/PCB_Layout.jpeg)
+![Front_view_of_the_PCB](Images/Front_view_of_the_PCB.png)
+![Rear_view_of_the_PCB](Images/Rear_view_of_the_PCB.png)
+![PCB_Layout](Images/PCB_Layout.png)
 
 ### Prototype
 ![Picture of the PCBs working](Images/Picture_of_the_PCBs_working.jpeg)
