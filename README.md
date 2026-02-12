@@ -55,6 +55,7 @@ The project was developed collaboratively with clearly defined responsibilities:
   Diego Roque Gómez
   
 - **Design and programming of the web interface and ESP32:**
+
   Rodrigo Pérez Cázares
 
 ## Mechanical design
