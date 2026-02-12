@@ -53,6 +53,9 @@ The project was developed collaboratively with clearly defined responsibilities:
   Antoine Aramis Guzmán Rocha (included with permission)
   
   Diego Roque Gómez
+  
+- **Design and programming of the web interface and ESP32:**
+  Rodrigo Pérez Cázares
 
 ## Mechanical design
 The mechanical structure was developed collaboratively through iterative design cycles.
